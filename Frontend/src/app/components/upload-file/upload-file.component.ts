@@ -11,6 +11,7 @@ export class UploadFileComponent {
 
   file: File;
   error = false;
+  uploaded=false;
   uploadResult: uploadResultaat =  {
     nieuwCursussen: 0,
     nieuwInstanties: 0,
@@ -34,6 +35,7 @@ export class UploadFileComponent {
     this.uploadService.upload(formData).subscribe((result)=>{
       if(result){
         this.uploadResult = result;
+        this.uploaded =true;
         this.error = result.fout;
       }
     })

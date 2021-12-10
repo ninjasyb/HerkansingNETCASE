@@ -1,7 +1,7 @@
 <div class="upload-file">
     <input id= "file" type="file" class="file-input" (change)="handleFileInput($event)"/>
 
-    <div *ngIf ="!error">
+    <div *ngIf ="uploaded && !error">
         <p>
             Er zijn {{uploadResult.nieuwInstanties}} instanties en {{uploadResult.nieuwCursussen}} cursussen toegevoegd.
         </p>

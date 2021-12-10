@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "o5UNO+59vPsrXVxWJ1olOeib7+IxmkPOCWQV7YHpCS8XwDiblB+8hSfhE6MhaLBk9mVkn7H4CELhfOwmIt4MSQ==",
+  "dgSpecHash": "AsEZZ4zAK7GXReYbXHAkbrn+JhA/bg4BRxY2VG6+Qkp7Zz+HOFB/vZUdvDdgjrkg3brNzk5KArblaMOy4OtR9Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Syb\\source\\repos\\DOTNET-herkansing\\Backend\\CursusInzicht.DataAcces\\CursusInzicht.DataAccess.csproj",
+  "projectFilePath": "C:\\Users\\Syb\\source\\repos\\HerkansingDOTNetCase\\Backend\\CursusInzicht.DataAcces\\CursusInzicht.DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Syb\\.nuget\\packages\\castle.core\\4.4.1\\castle.core.4.4.1.nupkg.sha512",
     "C:\\Users\\Syb\\.nuget\\packages\\fluentassertions\\6.2.0\\fluentassertions.6.2.0.nupkg.sha512",

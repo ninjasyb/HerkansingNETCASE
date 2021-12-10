@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kstSteGLTyFmKOYVPqvtcsnS3VNjhBNtGCYORNr62ddThIqbZoE+hXVFl9xu2Up51mbklwrwziURQhDq1oOgzw==",
+  "dgSpecHash": "ynxjJsVlVidRyzcDiR70ohqzDrDxZPweK8vYdmsTP+vpsKI+hHS1YZNV70B6iSWporkbXXBIL3sBDBZG8Z/Lng==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Syb\\source\\repos\\DOTNET-herkansing\\Backend\\CursusInzicht.Domain\\CursusInzicht.Domain.csproj",
+  "projectFilePath": "C:\\Users\\Syb\\source\\repos\\HerkansingDOTNetCase\\Backend\\CursusInzicht.Domain\\CursusInzicht.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Syb\\.nuget\\packages\\fluentassertions\\6.2.0\\fluentassertions.6.2.0.nupkg.sha512",
     "C:\\Users\\Syb\\.nuget\\packages\\system.configuration.configurationmanager\\4.4.0\\system.configuration.configurationmanager.4.4.0.nupkg.sha512",

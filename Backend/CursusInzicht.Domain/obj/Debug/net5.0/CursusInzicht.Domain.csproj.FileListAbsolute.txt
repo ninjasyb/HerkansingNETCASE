@@ -10,3 +10,15 @@ C:\Users\Syb\source\repos\DOTNET-herkansing\Backend\CursusInzicht.Domain\obj\Deb
 C:\Users\Syb\source\repos\DOTNET-herkansing\Backend\CursusInzicht.Domain\obj\Debug\net5.0\CursusInzicht.Domain.dll
 C:\Users\Syb\source\repos\DOTNET-herkansing\Backend\CursusInzicht.Domain\obj\Debug\net5.0\ref\CursusInzicht.Domain.dll
 C:\Users\Syb\source\repos\DOTNET-herkansing\Backend\CursusInzicht.Domain\obj\Debug\net5.0\CursusInzicht.Domain.pdb
+C:\Users\Syb\source\repos\HerkansingDOTNetCase\Backend\CursusInzicht.Domain\bin\Debug\net5.0\CursusInzicht.Domain.deps.json
+C:\Users\Syb\source\repos\HerkansingDOTNetCase\Backend\CursusInzicht.Domain\bin\Debug\net5.0\CursusInzicht.Domain.dll
+C:\Users\Syb\source\repos\HerkansingDOTNetCase\Backend\CursusInzicht.Domain\bin\Debug\net5.0\ref\CursusInzicht.Domain.dll
+C:\Users\Syb\source\repos\HerkansingDOTNetCase\Backend\CursusInzicht.Domain\bin\Debug\net5.0\CursusInzicht.Domain.pdb
+C:\Users\Syb\source\repos\HerkansingDOTNetCase\Backend\CursusInzicht.Domain\obj\Debug\net5.0\CursusInzicht.Domain.csprojAssemblyReference.cache
+C:\Users\Syb\source\repos\HerkansingDOTNetCase\Backend\CursusInzicht.Domain\obj\Debug\net5.0\CursusInzicht.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Syb\source\repos\HerkansingDOTNetCase\Backend\CursusInzicht.Domain\obj\Debug\net5.0\CursusInzicht.Domain.AssemblyInfoInputs.cache
+C:\Users\Syb\source\repos\HerkansingDOTNetCase\Backend\CursusInzicht.Domain\obj\Debug\net5.0\CursusInzicht.Domain.AssemblyInfo.cs
+C:\Users\Syb\source\repos\HerkansingDOTNetCase\Backend\CursusInzicht.Domain\obj\Debug\net5.0\CursusInzicht.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Syb\source\repos\HerkansingDOTNetCase\Backend\CursusInzicht.Domain\obj\Debug\net5.0\CursusInzicht.Domain.dll
+C:\Users\Syb\source\repos\HerkansingDOTNetCase\Backend\CursusInzicht.Domain\obj\Debug\net5.0\ref\CursusInzicht.Domain.dll
+C:\Users\Syb\source\repos\HerkansingDOTNetCase\Backend\CursusInzicht.Domain\obj\Debug\net5.0\CursusInzicht.Domain.pdb

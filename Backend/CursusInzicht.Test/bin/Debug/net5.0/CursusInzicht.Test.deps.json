@@ -9,7 +9,7 @@
       "CursusInzicht.Test/1.0.0": {
         "dependencies": {
           "CursusInzicht.API": "1.0.0",
-          "CursusInzicht.DataAcces": "1.0.0",
+          "CursusInzicht.DataAccess": "1.0.0",
           "MSTest.TestAdapter": "2.1.1",
           "MSTest.TestFramework": "2.1.1",
           "Microsoft.EntityFrameworkCore.InMemory": "5.0.12",
@@ -1763,7 +1763,7 @@
       },
       "CursusInzicht.API/1.0.0": {
         "dependencies": {
-          "CursusInzicht.DataAcces": "1.0.0",
+          "CursusInzicht.DataAccess": "1.0.0",
           "Microsoft.EntityFrameworkCore": "5.0.12",
           "Microsoft.EntityFrameworkCore.Relational": "5.0.12",
           "Microsoft.EntityFrameworkCore.SqlServer": "5.0.12"
@@ -1772,7 +1772,7 @@
           "CursusInzicht.API.dll": {}
         }
       },
-      "CursusInzicht.DataAcces/1.0.0": {
+      "CursusInzicht.DataAccess/1.0.0": {
         "dependencies": {
           "CursusInzicht.Domain": "1.0.0",
           "Microsoft.EntityFrameworkCore": "5.0.12",
@@ -1782,7 +1782,7 @@
           "Microsoft.Extensions.Configuration.Json": "6.0.0"
         },
         "runtime": {
-          "CursusInzicht.DataAcces.dll": {}
+          "CursusInzicht.DataAccess.dll": {}
         }
       },
       "CursusInzicht.Domain/1.0.0": {
@@ -2863,7 +2863,7 @@
       "serviceable": false,
       "sha512": ""
     },
-    "CursusInzicht.DataAcces/1.0.0": {
+    "CursusInzicht.DataAccess/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -145,11 +145,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Syb\\source\\repos\\DOTNET-herkansing\\Backend\\CursusInzicht.Domain\\CursusInzicht.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\Syb\\source\\repos\\HerkansingDOTNetCase\\Backend\\CursusInzicht.Domain\\CursusInzicht.Domain.csproj",
       "projectName": "CursusInzicht.Domain",
-      "projectPath": "C:\\Users\\Syb\\source\\repos\\DOTNET-herkansing\\Backend\\CursusInzicht.Domain\\CursusInzicht.Domain.csproj",
+      "projectPath": "C:\\Users\\Syb\\source\\repos\\HerkansingDOTNetCase\\Backend\\CursusInzicht.Domain\\CursusInzicht.Domain.csproj",
       "packagesPath": "C:\\Users\\Syb\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Syb\\source\\repos\\DOTNET-herkansing\\Backend\\CursusInzicht.Domain\\obj\\",
+      "outputPath": "C:\\Users\\Syb\\source\\repos\\HerkansingDOTNetCase\\Backend\\CursusInzicht.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Syb\\AppData\\Roaming\\NuGet\\NuGet.Config",

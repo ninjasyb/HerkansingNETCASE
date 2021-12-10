@@ -7787,11 +7787,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Syb\\source\\repos\\DOTNET-herkansing\\Backend\\CursusInzicht.DataAcces\\CursusInzicht.DataAccess.csproj",
+      "projectUniqueName": "C:\\Users\\Syb\\source\\repos\\HerkansingDOTNetCase\\Backend\\CursusInzicht.DataAcces\\CursusInzicht.DataAccess.csproj",
       "projectName": "CursusInzicht.DataAccess",
-      "projectPath": "C:\\Users\\Syb\\source\\repos\\DOTNET-herkansing\\Backend\\CursusInzicht.DataAcces\\CursusInzicht.DataAccess.csproj",
+      "projectPath": "C:\\Users\\Syb\\source\\repos\\HerkansingDOTNetCase\\Backend\\CursusInzicht.DataAcces\\CursusInzicht.DataAccess.csproj",
       "packagesPath": "C:\\Users\\Syb\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Syb\\source\\repos\\DOTNET-herkansing\\Backend\\CursusInzicht.DataAcces\\obj\\",
+      "outputPath": "C:\\Users\\Syb\\source\\repos\\HerkansingDOTNetCase\\Backend\\CursusInzicht.DataAcces\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Syb\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -7808,8 +7808,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\Syb\\source\\repos\\DOTNET-herkansing\\Backend\\CursusInzicht.Domain\\CursusInzicht.Domain.csproj": {
-              "projectPath": "C:\\Users\\Syb\\source\\repos\\DOTNET-herkansing\\Backend\\CursusInzicht.Domain\\CursusInzicht.Domain.csproj"
+            "C:\\Users\\Syb\\source\\repos\\HerkansingDOTNetCase\\Backend\\CursusInzicht.Domain\\CursusInzicht.Domain.csproj": {
+              "projectPath": "C:\\Users\\Syb\\source\\repos\\HerkansingDOTNetCase\\Backend\\CursusInzicht.Domain\\CursusInzicht.Domain.csproj"
             }
           }
         }

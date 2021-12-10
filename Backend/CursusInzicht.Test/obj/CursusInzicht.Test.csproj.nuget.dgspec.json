@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Syb\\source\\repos\\DOTNET-herkansing\\Backend\\CursusInzicht.Test\\CursusInzicht.Test.csproj": {}
+    "C:\\Users\\Syb\\source\\repos\\HerkansingDOTNetCase\\Backend\\CursusInzicht.Test\\CursusInzicht.Test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Syb\\source\\repos\\DOTNET-herkansing\\Backend\\CursusInzicht.API\\CursusInzicht.API.csproj": {
+    "C:\\Users\\Syb\\source\\repos\\HerkansingDOTNetCase\\Backend\\CursusInzicht.API\\CursusInzicht.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Syb\\source\\repos\\DOTNET-herkansing\\Backend\\CursusInzicht.API\\CursusInzicht.API.csproj",
+        "projectUniqueName": "C:\\Users\\Syb\\source\\repos\\HerkansingDOTNetCase\\Backend\\CursusInzicht.API\\CursusInzicht.API.csproj",
         "projectName": "CursusInzicht.API",
-        "projectPath": "C:\\Users\\Syb\\source\\repos\\DOTNET-herkansing\\Backend\\CursusInzicht.API\\CursusInzicht.API.csproj",
+        "projectPath": "C:\\Users\\Syb\\source\\repos\\HerkansingDOTNetCase\\Backend\\CursusInzicht.API\\CursusInzicht.API.csproj",
         "packagesPath": "C:\\Users\\Syb\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Syb\\source\\repos\\DOTNET-herkansing\\Backend\\CursusInzicht.API\\obj\\",
+        "outputPath": "C:\\Users\\Syb\\source\\repos\\HerkansingDOTNetCase\\Backend\\CursusInzicht.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Syb\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Syb\\source\\repos\\DOTNET-herkansing\\Backend\\CursusInzicht.DataAcces\\CursusInzicht.DataAccess.csproj": {
-                "projectPath": "C:\\Users\\Syb\\source\\repos\\DOTNET-herkansing\\Backend\\CursusInzicht.DataAcces\\CursusInzicht.DataAccess.csproj"
+              "C:\\Users\\Syb\\source\\repos\\HerkansingDOTNetCase\\Backend\\CursusInzicht.DataAcces\\CursusInzicht.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\Syb\\source\\repos\\HerkansingDOTNetCase\\Backend\\CursusInzicht.DataAcces\\CursusInzicht.DataAccess.csproj"
               }
             }
           }
@@ -85,14 +85,14 @@
         }
       }
     },
-    "C:\\Users\\Syb\\source\\repos\\DOTNET-herkansing\\Backend\\CursusInzicht.DataAcces\\CursusInzicht.DataAccess.csproj": {
+    "C:\\Users\\Syb\\source\\repos\\HerkansingDOTNetCase\\Backend\\CursusInzicht.DataAcces\\CursusInzicht.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Syb\\source\\repos\\DOTNET-herkansing\\Backend\\CursusInzicht.DataAcces\\CursusInzicht.DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\Syb\\source\\repos\\HerkansingDOTNetCase\\Backend\\CursusInzicht.DataAcces\\CursusInzicht.DataAccess.csproj",
         "projectName": "CursusInzicht.DataAccess",
-        "projectPath": "C:\\Users\\Syb\\source\\repos\\DOTNET-herkansing\\Backend\\CursusInzicht.DataAcces\\CursusInzicht.DataAccess.csproj",
+        "projectPath": "C:\\Users\\Syb\\source\\repos\\HerkansingDOTNetCase\\Backend\\CursusInzicht.DataAcces\\CursusInzicht.DataAccess.csproj",
         "packagesPath": "C:\\Users\\Syb\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Syb\\source\\repos\\DOTNET-herkansing\\Backend\\CursusInzicht.DataAcces\\obj\\",
+        "outputPath": "C:\\Users\\Syb\\source\\repos\\HerkansingDOTNetCase\\Backend\\CursusInzicht.DataAcces\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Syb\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -109,8 +109,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Syb\\source\\repos\\DOTNET-herkansing\\Backend\\CursusInzicht.Domain\\CursusInzicht.Domain.csproj": {
-                "projectPath": "C:\\Users\\Syb\\source\\repos\\DOTNET-herkansing\\Backend\\CursusInzicht.Domain\\CursusInzicht.Domain.csproj"
+              "C:\\Users\\Syb\\source\\repos\\HerkansingDOTNetCase\\Backend\\CursusInzicht.Domain\\CursusInzicht.Domain.csproj": {
+                "projectPath": "C:\\Users\\Syb\\source\\repos\\HerkansingDOTNetCase\\Backend\\CursusInzicht.Domain\\CursusInzicht.Domain.csproj"
               }
             }
           }
@@ -165,14 +165,14 @@
         }
       }
     },
-    "C:\\Users\\Syb\\source\\repos\\DOTNET-herkansing\\Backend\\CursusInzicht.Domain\\CursusInzicht.Domain.csproj": {
+    "C:\\Users\\Syb\\source\\repos\\HerkansingDOTNetCase\\Backend\\CursusInzicht.Domain\\CursusInzicht.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Syb\\source\\repos\\DOTNET-herkansing\\Backend\\CursusInzicht.Domain\\CursusInzicht.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Syb\\source\\repos\\HerkansingDOTNetCase\\Backend\\CursusInzicht.Domain\\CursusInzicht.Domain.csproj",
         "projectName": "CursusInzicht.Domain",
-        "projectPath": "C:\\Users\\Syb\\source\\repos\\DOTNET-herkansing\\Backend\\CursusInzicht.Domain\\CursusInzicht.Domain.csproj",
+        "projectPath": "C:\\Users\\Syb\\source\\repos\\HerkansingDOTNetCase\\Backend\\CursusInzicht.Domain\\CursusInzicht.Domain.csproj",
         "packagesPath": "C:\\Users\\Syb\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Syb\\source\\repos\\DOTNET-herkansing\\Backend\\CursusInzicht.Domain\\obj\\",
+        "outputPath": "C:\\Users\\Syb\\source\\repos\\HerkansingDOTNetCase\\Backend\\CursusInzicht.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Syb\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -225,14 +225,14 @@
         }
       }
     },
-    "C:\\Users\\Syb\\source\\repos\\DOTNET-herkansing\\Backend\\CursusInzicht.Test\\CursusInzicht.Test.csproj": {
+    "C:\\Users\\Syb\\source\\repos\\HerkansingDOTNetCase\\Backend\\CursusInzicht.Test\\CursusInzicht.Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Syb\\source\\repos\\DOTNET-herkansing\\Backend\\CursusInzicht.Test\\CursusInzicht.Test.csproj",
+        "projectUniqueName": "C:\\Users\\Syb\\source\\repos\\HerkansingDOTNetCase\\Backend\\CursusInzicht.Test\\CursusInzicht.Test.csproj",
         "projectName": "CursusInzicht.Test",
-        "projectPath": "C:\\Users\\Syb\\source\\repos\\DOTNET-herkansing\\Backend\\CursusInzicht.Test\\CursusInzicht.Test.csproj",
+        "projectPath": "C:\\Users\\Syb\\source\\repos\\HerkansingDOTNetCase\\Backend\\CursusInzicht.Test\\CursusInzicht.Test.csproj",
         "packagesPath": "C:\\Users\\Syb\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Syb\\source\\repos\\DOTNET-herkansing\\Backend\\CursusInzicht.Test\\obj\\",
+        "outputPath": "C:\\Users\\Syb\\source\\repos\\HerkansingDOTNetCase\\Backend\\CursusInzicht.Test\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Syb\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -249,11 +249,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Syb\\source\\repos\\DOTNET-herkansing\\Backend\\CursusInzicht.API\\CursusInzicht.API.csproj": {
-                "projectPath": "C:\\Users\\Syb\\source\\repos\\DOTNET-herkansing\\Backend\\CursusInzicht.API\\CursusInzicht.API.csproj"
+              "C:\\Users\\Syb\\source\\repos\\HerkansingDOTNetCase\\Backend\\CursusInzicht.API\\CursusInzicht.API.csproj": {
+                "projectPath": "C:\\Users\\Syb\\source\\repos\\HerkansingDOTNetCase\\Backend\\CursusInzicht.API\\CursusInzicht.API.csproj"
               },
-              "C:\\Users\\Syb\\source\\repos\\DOTNET-herkansing\\Backend\\CursusInzicht.DataAcces\\CursusInzicht.DataAccess.csproj": {
-                "projectPath": "C:\\Users\\Syb\\source\\repos\\DOTNET-herkansing\\Backend\\CursusInzicht.DataAcces\\CursusInzicht.DataAccess.csproj"
+              "C:\\Users\\Syb\\source\\repos\\HerkansingDOTNetCase\\Backend\\CursusInzicht.DataAcces\\CursusInzicht.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\Syb\\source\\repos\\HerkansingDOTNetCase\\Backend\\CursusInzicht.DataAcces\\CursusInzicht.DataAccess.csproj"
               }
             }
           }

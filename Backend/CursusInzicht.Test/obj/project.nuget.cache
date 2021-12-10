@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "82UFQ0XGaq4tvcTD7GMC8lF4Tu4tROtOkpH59oFMRsytNxy7gyl05CKJG6NxxWBPIxsfSsbp7P+arT2+crvr3A==",
+  "dgSpecHash": "XkNLIqcQgT8hDkNWfIvgrsFFi45qrwXEQIakPcoIoFE/28EEXzPXd7sIj+PZbD22rMQ0hgyBZrbp54nc0gdYZw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Syb\\source\\repos\\DOTNET-herkansing\\Backend\\CursusInzicht.Test\\CursusInzicht.Test.csproj",
+  "projectFilePath": "C:\\Users\\Syb\\source\\repos\\HerkansingDOTNetCase\\Backend\\CursusInzicht.Test\\CursusInzicht.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Syb\\.nuget\\packages\\castle.core\\4.4.1\\castle.core.4.4.1.nupkg.sha512",
     "C:\\Users\\Syb\\.nuget\\packages\\coverlet.collector\\1.3.0\\coverlet.collector.1.3.0.nupkg.sha512",
