@@ -12,3 +12,6 @@ client:
 	- type 'ng serve'
 	- de client kan benaderd worden door in de browser naar localhost:4200 te gaan.	
 
+
+Zowel de server als client bevat Unit tests, end to end tests heb ik helaas niet.
+Daarentegen is er wel een gebruikersacceptatietest geweest, uitgevoerd door yours truly.
