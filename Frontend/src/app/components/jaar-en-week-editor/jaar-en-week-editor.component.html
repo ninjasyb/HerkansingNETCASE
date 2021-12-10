@@ -1,0 +1,19 @@
+<div class="jaar-week-container">
+    <form class="jaar-week-form" [formGroup]="jaarEnWeekForm" (ngSubmit)="onSubmit()">
+        <div class="jaar-week-label">
+            <label for="week">Week nummer: </label> <br>
+            <label for="jaar">Jaar: </label>
+        </div>
+        <div class="jaar-week-selector">
+            <input id="week" type="number" [min]="1" [max]="53"  formControlName="week"><br>
+            <input id="jaar" type="number" [min]="2000" [max]="2100" formControlName="jaar">
+        </div>
+
+        <div class="week-selector">
+            <button class="btn-primary" (click)="getLastWeek()"> < </button>
+            <button class="btn-primary" (click)="getNextWeek()"> > </button>
+        </div>
+
+        <button class="btn btn-primary btn-submit" type="submit">Submit</button>
+    </form>
+</div>

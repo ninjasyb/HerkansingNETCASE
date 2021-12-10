@@ -1,0 +1,33 @@
+<div class="cursus-instanties">
+    <h5> Weekoverzicht</h5>
+
+    <app-jaar-en-week-editor [jaarEnWeek]='jaarEnWeek' (itemEmitter)="updateList($event)"></app-jaar-en-week-editor>
+
+    <table class="table table-striped">
+        <thead>
+            <th>Start</th>
+            <th>Duur</th>
+            <th>Titel</th>
+        </thead>
+        <tbody>
+            <tr *ngFor="let cursusInstantie of cursusInstanties">
+                <th>{{cursusInstantie.startDatum| date: 'dd/MM/yyyy'}}</th>
+                <th>{{cursusInstantie.cursus.duur}}</th>
+                <th>{{cursusInstantie.cursus.titel}}</th>
+            </tr>
+        </tbody>    
+        
+        <div *ngIf="isLoading">
+            <p>Cursusinstanties worden opgehaald...</p>
+        </div>
+
+        <div *ngIf="!isLoading && cursusInstanties[0] == null">
+            <p>Er zijn nog geen cursussen bekend.</p>
+            <a routerLink="/upload">
+                <button type="button" class="btn btn-primary">
+                    Upload een bestand hier.
+                </button>
+            </a>
+        </div>
+    </table>
+</div>

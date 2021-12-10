@@ -1,0 +1,16 @@
+<div class="wrapper">
+    <h1>{{title}}</h1>
+
+    <ul ngbNav #nav="ngbNav" class="nav-tabs">
+        <li ngbNavItem>
+        <a ngbNavLink routerLink= ""> Overzicht </a>
+        </li>
+        <li ngbNavItem>
+            <a ngbNavLink routerLink="/upload">upload bestand</a>
+        </li>
+    </ul>
+    <div [ngbNavOutlet]="nav"></div>
+    <div class="content">
+        <router-outlet></router-outlet>
+    </div>
+</div>

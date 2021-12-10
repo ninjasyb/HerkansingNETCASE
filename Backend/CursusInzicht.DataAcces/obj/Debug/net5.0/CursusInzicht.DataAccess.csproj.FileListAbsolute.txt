@@ -1,0 +1,15 @@
+C:\Users\Syb\source\repos\DOTNET-herkansing\Backend\CursusInzicht.DataAcces\bin\Debug\net5.0\CursusInzicht.DataAccess.deps.json
+C:\Users\Syb\source\repos\DOTNET-herkansing\Backend\CursusInzicht.DataAcces\bin\Debug\net5.0\CursusInzicht.DataAccess.dll
+C:\Users\Syb\source\repos\DOTNET-herkansing\Backend\CursusInzicht.DataAcces\bin\Debug\net5.0\ref\CursusInzicht.DataAccess.dll
+C:\Users\Syb\source\repos\DOTNET-herkansing\Backend\CursusInzicht.DataAcces\bin\Debug\net5.0\CursusInzicht.DataAccess.pdb
+C:\Users\Syb\source\repos\DOTNET-herkansing\Backend\CursusInzicht.DataAcces\bin\Debug\net5.0\CursusInzicht.Domain.dll
+C:\Users\Syb\source\repos\DOTNET-herkansing\Backend\CursusInzicht.DataAcces\bin\Debug\net5.0\CursusInzicht.Domain.pdb
+C:\Users\Syb\source\repos\DOTNET-herkansing\Backend\CursusInzicht.DataAcces\obj\Debug\net5.0\CursusInzicht.DataAccess.csprojAssemblyReference.cache
+C:\Users\Syb\source\repos\DOTNET-herkansing\Backend\CursusInzicht.DataAcces\obj\Debug\net5.0\CursusInzicht.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Syb\source\repos\DOTNET-herkansing\Backend\CursusInzicht.DataAcces\obj\Debug\net5.0\CursusInzicht.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Syb\source\repos\DOTNET-herkansing\Backend\CursusInzicht.DataAcces\obj\Debug\net5.0\CursusInzicht.DataAccess.AssemblyInfo.cs
+C:\Users\Syb\source\repos\DOTNET-herkansing\Backend\CursusInzicht.DataAcces\obj\Debug\net5.0\CursusInzicht.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Syb\source\repos\DOTNET-herkansing\Backend\CursusInzicht.DataAcces\obj\Debug\net5.0\CursusInzicht.DataAccess.csproj.CopyComplete
+C:\Users\Syb\source\repos\DOTNET-herkansing\Backend\CursusInzicht.DataAcces\obj\Debug\net5.0\CursusInzicht.DataAccess.dll
+C:\Users\Syb\source\repos\DOTNET-herkansing\Backend\CursusInzicht.DataAcces\obj\Debug\net5.0\ref\CursusInzicht.DataAccess.dll
+C:\Users\Syb\source\repos\DOTNET-herkansing\Backend\CursusInzicht.DataAcces\obj\Debug\net5.0\CursusInzicht.DataAccess.pdb

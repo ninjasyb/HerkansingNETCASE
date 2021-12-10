@@ -1,0 +1,15 @@
+.jaar-week-container{
+    padding:10px 0 10px 0;
+    display: flex;
+}
+.jaar-week-selector{
+    padding-left: 10px;
+}
+
+.jaar-week-form{
+    display: flex;
+}
+
+.week-selector{
+    padding: 0 10px 0 10px;
+}

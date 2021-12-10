@@ -1,0 +1,14 @@
+/* You can add global styles to this file, and also import other style files */
+@import "~bootstrap/dist/css/bootstrap.css";
+
+.cursus-instanties{
+    padding: 15px 0px 15px 0px;
+}
+
+.upload-file{
+    padding: 15px 0px 15px 0px;
+}
+
+.wrapper {
+    padding: 30px;
+}

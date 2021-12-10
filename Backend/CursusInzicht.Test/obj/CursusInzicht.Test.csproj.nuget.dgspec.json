@@ -1,0 +1,319 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Syb\\source\\repos\\DOTNET-herkansing\\Backend\\CursusInzicht.Test\\CursusInzicht.Test.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Syb\\source\\repos\\DOTNET-herkansing\\Backend\\CursusInzicht.API\\CursusInzicht.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Syb\\source\\repos\\DOTNET-herkansing\\Backend\\CursusInzicht.API\\CursusInzicht.API.csproj",
+        "projectName": "CursusInzicht.API",
+        "projectPath": "C:\\Users\\Syb\\source\\repos\\DOTNET-herkansing\\Backend\\CursusInzicht.API\\CursusInzicht.API.csproj",
+        "packagesPath": "C:\\Users\\Syb\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Syb\\source\\repos\\DOTNET-herkansing\\Backend\\CursusInzicht.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Syb\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Syb\\source\\repos\\DOTNET-herkansing\\Backend\\CursusInzicht.DataAcces\\CursusInzicht.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\Syb\\source\\repos\\DOTNET-herkansing\\Backend\\CursusInzicht.DataAcces\\CursusInzicht.DataAccess.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.12, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[5.0.12, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.12, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.12, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Syb\\source\\repos\\DOTNET-herkansing\\Backend\\CursusInzicht.DataAcces\\CursusInzicht.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Syb\\source\\repos\\DOTNET-herkansing\\Backend\\CursusInzicht.DataAcces\\CursusInzicht.DataAccess.csproj",
+        "projectName": "CursusInzicht.DataAccess",
+        "projectPath": "C:\\Users\\Syb\\source\\repos\\DOTNET-herkansing\\Backend\\CursusInzicht.DataAcces\\CursusInzicht.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\Syb\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Syb\\source\\repos\\DOTNET-herkansing\\Backend\\CursusInzicht.DataAcces\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Syb\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Syb\\source\\repos\\DOTNET-herkansing\\Backend\\CursusInzicht.Domain\\CursusInzicht.Domain.csproj": {
+                "projectPath": "C:\\Users\\Syb\\source\\repos\\DOTNET-herkansing\\Backend\\CursusInzicht.Domain\\CursusInzicht.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.12, )"
+            },
+            "Microsoft.EntityFrameworkCore.Proxies": {
+              "target": "Package",
+              "version": "[5.0.12, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.12, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Syb\\source\\repos\\DOTNET-herkansing\\Backend\\CursusInzicht.Domain\\CursusInzicht.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Syb\\source\\repos\\DOTNET-herkansing\\Backend\\CursusInzicht.Domain\\CursusInzicht.Domain.csproj",
+        "projectName": "CursusInzicht.Domain",
+        "projectPath": "C:\\Users\\Syb\\source\\repos\\DOTNET-herkansing\\Backend\\CursusInzicht.Domain\\CursusInzicht.Domain.csproj",
+        "packagesPath": "C:\\Users\\Syb\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Syb\\source\\repos\\DOTNET-herkansing\\Backend\\CursusInzicht.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Syb\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "FluentAssertions": {
+              "target": "Package",
+              "version": "[6.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Syb\\source\\repos\\DOTNET-herkansing\\Backend\\CursusInzicht.Test\\CursusInzicht.Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Syb\\source\\repos\\DOTNET-herkansing\\Backend\\CursusInzicht.Test\\CursusInzicht.Test.csproj",
+        "projectName": "CursusInzicht.Test",
+        "projectPath": "C:\\Users\\Syb\\source\\repos\\DOTNET-herkansing\\Backend\\CursusInzicht.Test\\CursusInzicht.Test.csproj",
+        "packagesPath": "C:\\Users\\Syb\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Syb\\source\\repos\\DOTNET-herkansing\\Backend\\CursusInzicht.Test\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Syb\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Syb\\source\\repos\\DOTNET-herkansing\\Backend\\CursusInzicht.API\\CursusInzicht.API.csproj": {
+                "projectPath": "C:\\Users\\Syb\\source\\repos\\DOTNET-herkansing\\Backend\\CursusInzicht.API\\CursusInzicht.API.csproj"
+              },
+              "C:\\Users\\Syb\\source\\repos\\DOTNET-herkansing\\Backend\\CursusInzicht.DataAcces\\CursusInzicht.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\Syb\\source\\repos\\DOTNET-herkansing\\Backend\\CursusInzicht.DataAcces\\CursusInzicht.DataAccess.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[5.0.12, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.7.1, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[1.3.0, )"
+            },
+            "xunit.extensibility.core": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,24 @@
+<div class="upload-file">
+    <input id= "file" type="file" class="file-input" (change)="handleFileInput($event)"/>
+
+    <div *ngIf ="!error">
+        <p>
+            Er zijn {{uploadResult.nieuwInstanties}} instanties en {{uploadResult.nieuwCursussen}} cursussen toegevoegd.
+        </p>
+        <p *ngIf="uploadResult.duplicaten == 0">
+            Er zijn geen duplicaten gevonden.
+        </p>
+        <p *ngIf="uploadResult.duplicaten ==1">
+            Er is één duplicaat gevonden.
+        </p>
+        <p *ngIf="uploadResult.duplicaten > 1">
+            Er zijn {{uploadResult.duplicaten}} duplicaten gevonden
+        </p>
+    </div>
+    <div *ngIf="error">
+        <p class="text-danger">
+            {{uploadResult.bericht}} <br>
+            Er zijn geen cursussen of cursusinstanties geïmporteerd.
+        </p>
+    </div>
+</div>
